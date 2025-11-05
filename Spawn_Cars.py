@@ -81,7 +81,7 @@ def generate_autos(pantalla, player, game_fps):
 
             if auto_enemy.colliderect(player): #LOSE COLIDER, IF PLAYER TOUCH A ENEMY, LOSE THE GAME
 
-                print("YOU LOSE!")
+                #print("YOU LOSE!")
                 stop_game = True
 
 
