@@ -1,42 +1,55 @@
-# Block Game
+# Race Cars
 
-#### __EN:__
-### What is Block Game?
+### __EN:__
 
-#### Block Game is a recreation the famous "Brick Game 9999 in 1". This proyect is made to port the most popular and the only five games what the console have, like:
-
-- Race Cars 
-- Snake
-- Tetris
-- Space Ship
-- Breakout
-
-#### The games are code in __Python__ with __Pygame__ library.
-| <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" width="500" /> | <img src="https://www.pygame.org/docs/_images/pygame_logo.png" width="500" /> |
-|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+### Race Cars game is about of a car in the road and you are the driver of thar car, you need to evade the cars and try to not crash while the speed of you car is increasing. Is a pretty fun game and is easy to play.
 
 
-#### The proyect is open source and you can download and mod all of the games!
+#### Things that are in the game:
+
+* Textures like OG Brick Game
+* Controls
+* Pause option
+* Points and level system
+* FPS counter (only in the development, i will remove later)
+
+#### Things what i need to add:
+
+* Sounds (SFX and Music)
+* Retry option
+* Add more speed to car with the "v" key (the texture is in the game, but the key dont work)
+* Add new level reached texture
+* Explosion animation when the car crash
+* Add road barriers texture
+* Fix some bugs
+
+### The game is in development but is playable at this point. What will it be you highest score?
 
 #
 
-#### __ES:__
+### __ES:__
 
-### ¿Qué es Block Game?
-
-#### Block Game es una recreación del famoso "Brick Game 9999 en 1". Este proyecto esta hecho para portear los juegos mas populares y los únicos 5 que la consola trae, como:
-
-- Race Cars 
-- Snake
-- Tetris
-- Space Ship
-- Breakout
-
-#### Los juegos estan programado en __Python__ con la libreria __Pygame__.
-| <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" width="500" /> | <img src="https://www.pygame.org/docs/_images/pygame_logo.png" width="500" /> |
-|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+### Race Cars es un juego que se trata de un auto en una carretera y tú eres el conductor de ese auto, tienes que esquivar los autos e intentar no chocar mientras la velocidad de tu auto va aumentando. Es un juego bastante entretenido y fácil de jugar.
 
 
-#### ¡Este proyecto es de código abierto y puedes descargar y modificar todos los juegos!
+#### Cosas que están en el juego:
+
+* Texturas como el Brick Game original
+* Controles
+* Opción de pausa
+* Sistema de puntos y niveles
+* Contador de FPS (solamente en el desarrollo, probablemente lo eliminaré después)
+
+#### Cosas que necesito agregar:
+
+* Sonidos (SFX y la música)
+* Opción de reintentar
+* Darle más velocidad al auto con la tecla "v" (la textura está en el juego, pero la tecla no funciona)
+* Textura de nuevo nivel alcanzado
+* Animación de exploción cuando el auto choca
+* Añadir textura de las barreras de la carretera
+* Solucionar algunos errores
+
+### El juego esta en desarrollo pero es jugable a este punto. ¿Cuál será tu puntuación más alta?
 
 
